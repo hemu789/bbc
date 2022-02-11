@@ -16,6 +16,12 @@ body{
 }
 .top-bar-section{
     float: left;
-    border-left: 1px grey solid;
+    border-left: 1px #cccccc solid;
     height: 100%;
+}
+#font-aws{
+    margin-top: 8px;
+    width: 100px;
+   
+
 }
